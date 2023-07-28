@@ -19,5 +19,9 @@ The dashboard visualizes and analyzes the Belly Button Biodiversity dataset, whi
 
 The Belly Button Biodiversity Dashboard provides an engaging platform to delve into the intriguing world of microbial colonization in human navels. Users can access the dashboard through the provided HTML file, which fetches and visualizes the dataset using D3.js and Plotly.js libraries. By interacting with the sample selector dropdown and exploring the charts and metadata panel, users can gain insights into the prevalence and distribution of microbial species in human navels.
 
+**Images**
+
+![image](https://github.com/obi8449/belly-button-project/assets/120345543/83e87bca-5240-4d63-aae2-4621b4f645e1)
+
 ![image](https://github.com/obi8449/belly-button-project/assets/120345543/83dbbf6f-ac67-4e2e-9f95-9e63521b0fa0)
 
